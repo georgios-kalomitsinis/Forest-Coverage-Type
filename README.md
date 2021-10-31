@@ -93,3 +93,6 @@ Required packages:
   - seaborn (Version >= 0.10.1)
   - pandas (Version >= 1.0.3)
 ```
+
+## License
+This project is licensed under the [MIT License](https://github.com/georgios-kalomitsinis/Forest-Coverage-Type/blob/master/LICENSE).
